@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+matplotlib
+altair
+imblearn==0.0
+xgboost
+scikit-learn
+scipy
+stopwordsiso==0.6.1
+nltk==3.6.2
+PySastrawi==1.2.0
+ipykernel==5.5.3

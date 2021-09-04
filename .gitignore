@@ -1,0 +1,8 @@
+__pycache__
+venv
+dataset/*.json
+dataset/__pycache__
+dataset/*.csv
+dataset/*.pdf
+.vscode
+model/*.pkl
