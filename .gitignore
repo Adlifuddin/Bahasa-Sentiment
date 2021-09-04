@@ -5,4 +5,4 @@ dataset/__pycache__
 dataset/*.csv
 dataset/*.pdf
 .vscode
-model/*.pkl
+model/backup
